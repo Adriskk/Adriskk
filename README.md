@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adriskk
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m a Web Developer, Python Software Developer and UI & UX Designer interested in Data Science and Machine Learning
 - 🌱 I’m currently learning how to create ML apps
-- 💞️ I’m looking to collaborate with someone who code with passion - like me
+- 💞️ I’m looking for occasions to make money 
 - 📫 You can reach me by joining my discord server ( https://discord.gg/BVbnuCnSN6 )
 
 <!---
