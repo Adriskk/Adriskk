@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Adriskk
-- 👀 I’m a Web Developer, Python Software Developer and UI & UX Designer interested in Data Science and Machine Learning
-- 🌱 I’m currently learning how to create ML apps
-- 💞️ I’m looking for occasions to make money 
-- 📫 You can reach me by joining my discord server ( https://discord.gg/BVbnuCnSN6 )
+- 👀 Web Developer (React Typescript)
+- 🌱 Creating commercial projects for companies
 
 <!---
 Adriskk/Adriskk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
